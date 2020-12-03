@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #define N 5
-void bubble_sort();
+void bubble_sort(int *data);
 
 int main()
 {
@@ -23,7 +23,7 @@ int main()
     return 0;
 }
 
-void bubble_sort(int data[])
+void bubble_sort(int *data)
 {
     int temp;
     for (int i = 0; i < N - 1; i++) //every i time can get a current maximum value
