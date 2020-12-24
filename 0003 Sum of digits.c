@@ -1,7 +1,7 @@
 // Reference : https://www.programmingsimplified.com/c/program/c-program-add-number-digits
 
 // Method 1 : Sum of digits of a number
-// Sum of digits C program to calculate the sum of digits of a number, 
+// Sum of digits C program to calculate the sum of digits of a number,
 // we use modulus operator (%) to extract individual digits of a number and keep on adding them.
 
 // #include <stdio.h>
@@ -41,7 +41,7 @@
 // }
 
 // Method 3-1 : Calculate sum of digits in C without modulus operator use for loop
-// An advantage of this method is that the input integer can be huge, which we can't store in an int or a long long data type variable. 
+// An advantage of this method is that the input integer can be huge, which we can't store in an int or a long long data type variable.
 // #include <stdio.h>
 
 // int main()
@@ -50,7 +50,7 @@
 //     int sum = 0;
 //     printf("enter an interger:\n");
 //     scanf("%s", num);
-    
+
 //     for(int i=0; num[i]!='\0'; i++){
 //         sum = sum + (num[i]-'0'); // num[i]-'0'  Converting character to integer
 //     }
@@ -59,9 +59,9 @@
 // }
 
 // Method 3-2 : Calculate sum of digits in C without modulus operator use while loop
-// An advantage of this method is that the input integer can be huge, which we can't store in an int or a long long data type variable. 
+// An advantage of this method is that the input integer can be huge, which we can't store in an int or a long long data type variable.
 // #include <stdio.h>
- 
+
 // int main()
 // {
 //     char num[1000];
@@ -98,4 +98,3 @@
 //     if(num==0) return 0;
 //     else return (num%10+add_digits(num/10));
 // }
-
