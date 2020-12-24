@@ -1,5 +1,7 @@
 // 使用氣泡排序法製作一個將五個整數資料由小到大排序的程式。
 // 程式執行時會要求您連續輸入5個整數,每個整數之間以空白來區隔,接著按 Enter-鍵之后即會顯示5個整數排序後的結果。
+// Reference : https://www.programmingsimplified.com/
+
 #include <stdlib.h>
 #include <stdio.h>
 #define N 5
