@@ -54,4 +54,4 @@ Python3
 陣列
 if-else
 排序
-
+for
