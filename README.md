@@ -51,9 +51,9 @@ Python3
 |LeetCode Hard|★★★★★|
 
 ### 相關tag
-陣列
-if-else
-排序
-for
-while
-Binary Search
+陣列  
+if-else  
+排序  
+for  
+while  
+Binary Search  
