@@ -1,4 +1,4 @@
-[codeEveryday](https://hackmd.io/@233eECf4S7qcV-8jggtxVw/ByoCaz5pw/https%3A%2F%2Fhackmd.io%2FWFU-r6SxTt6DdP--PKu2NQ)
+[codeEveryday](https://hackmd.io/@233eECf4S7qcV-8jggtxVw/ByoCaz5pw)
 ===
 
 - [題目列表](https://hackmd.io/@233eECf4S7qcV-8jggtxVw/HySzob5pD)
