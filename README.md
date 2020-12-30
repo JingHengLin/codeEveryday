@@ -12,7 +12,7 @@ C
 ---
 |#|題目名稱|難度|tag|來源|
 |-|-|-|-|-|
-|LC_0001|[Two Sum](/Uqrjz9dfSB-O4nfIt4HxGA)|★☆☆☆☆|?|LeetCode #1 Two Sum|
+|LC_0001|[Two Sum](https://hackmd.io/@233eECf4S7qcV-8jggtxVw/S1XJlfcaw)|★☆☆☆☆|?|LeetCode #1 Two Sum|
 
 C++
 ---
