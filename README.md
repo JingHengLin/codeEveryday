@@ -7,6 +7,7 @@
 ---
 * C++
     - [Cpp_0001 - Difference with C & Cpp _ overloading](https://hackmd.io/@233eECf4S7qcV-8jggtxVw/HkfABfF0w)
+    - [Cpp_0002 - Difference with C & Cpp _ inline](https://hackmd.io/@233eECf4S7qcV-8jggtxVw/SJATDQKAD)
     <!-- - [L_Cpp0001 - Two Sum](https://hackmd.io/@233eECf4S7qcV-8jggtxVw/S1XJlfcaw) -->
 
 * Python3
