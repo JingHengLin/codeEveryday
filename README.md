@@ -6,7 +6,8 @@
 ★☆☆☆☆ (Beginner)
 ---
 * C++
-    - [L_Cpp0001 - Two Sum](https://hackmd.io/@233eECf4S7qcV-8jggtxVw/S1XJlfcaw)
+    - [Cpp_0001 - Difference with C & Cpp _ overloading](https://hackmd.io/@233eECf4S7qcV-8jggtxVw/HkfABfF0w)
+    <!-- - [L_Cpp0001 - Two Sum](https://hackmd.io/@233eECf4S7qcV-8jggtxVw/S1XJlfcaw) -->
 
 * Python3
     - [Py0001 - Data Visualization](https://hackmd.io/@233eECf4S7qcV-8jggtxVw/ryH-oncTv)
